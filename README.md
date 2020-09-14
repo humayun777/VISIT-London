@@ -9,3 +9,4 @@ This is a react application for my travel 🤠 based startup for people visiting
 ```3.Type : npm install to install the required dependencies```  
 ```4.Initiate the `npm start` for the react server.```  
 ```5.The browser open itself and the application is up and running on Port 3006.```  
+555
